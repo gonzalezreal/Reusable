@@ -4,7 +4,7 @@
 [![Swift Package Manager](https://img.shields.io/badge/spm-compatible-brightgreen.svg?style=flat)](https://swift.org/package-manager)
 [![Twitter: @gonzalezreal](https://img.shields.io/badge/twitter-@gonzalezreal-blue.svg?style=flat)](https://twitter.com/gonzalezreal)
 
-Reusable is a Swift µpackage that provides a type-safe way for cell registration and dequeuing in both table and collection views. It is based on [this post](https://medium.com/@gonzalezreal/ios-cell-registration-reusing-with-swift-protocol-extensions-and-generics-c5ac4fb5b75e) I wrote a few years ago while I was exploring some of the Swift language features.
+Reusable is a Swift µpackage that provides a type-safe way for cell registration and dequeuing in both table and collection views. It is based on [this post](https://gonzalezreal.github.io/2015/12/31/ios-cell-registration-reusing-with-swift-protocol-extensions-and-generics.html) I wrote a few years ago while I was exploring some of the Swift language features.
 
 ## Usage
 
